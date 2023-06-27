@@ -14,7 +14,7 @@ export default function Home() {
               <a href="https://github.com/compiler-directory" className="text-gray-200 hover:text-gray-400">--github</a>
             </li>
             <li className="ml-4">
-              <a className="text-gray-400 cursor-not-allowed">--wiki=NULL</a>
+              <a href="https://wiki.compiler.directory" className="text-gray-300 hover:text-gray-500">--wiki=IN_PROGRESS</a>
             </li>
           </ul>
         </div>
